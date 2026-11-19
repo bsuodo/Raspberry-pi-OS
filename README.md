@@ -23,4 +23,4 @@ Deze Project valt onder MIT licensie
 Hier onder staan de benodigde gegevens:
     -studentennr: 97137087
     -studentnaam: A. Boutakmanti
-    -tijdsduur: 19 november 2026 t/m 25 november 2026
+    -tijdsduur: 24 november 2026 t/m 1 december 2026
